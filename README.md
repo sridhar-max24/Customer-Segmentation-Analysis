@@ -10,7 +10,6 @@ It helps businesses understand which **customer groups spend the most** and whic
 │── 📂 notebooks/ → Contains the Colab notebook  
 │── 📂 images/ → Contains saved charts & visualizations  
 │── 📜 README.md → Project documentation  
-│── 📜 requirements.txt → Required Python libraries  
 ```
 
 ## 📊 Key Findings  
@@ -23,7 +22,7 @@ It helps businesses understand which **customer groups spend the most** and whic
 
 ## 📈 Visualizations  
 Here are some key visualizations from the project:  
-![Example Chart]()  
+![Example Chart](images/Relationship between income and spending score.png)  
 
 ## 🚀 How to Use This Project  
 1. Clone the repository:  
