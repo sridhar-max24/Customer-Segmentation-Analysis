@@ -22,24 +22,10 @@ It helps businesses understand which **customer groups spend the most** and whic
 
 ## 📈 Visualizations  
 Here are some key visualizations from the project:  
-![Example Chart](images/Relationship between income and spending score.png)  
+![Relationship between income and spending](https://github.com/sridhar-max24/Customer-Segmentation-Analysis/blob/7bf878425530802ddb347e7ff5e17578bf31c6e1/images/Relationship%20between%20income%20and%20spending%20score.png)  
 
-## 🚀 How to Use This Project  
-1. Clone the repository:  
-   ```
-   git clone <your-repo-link>
-   ```
-2. Install dependencies:  
-   ```
-   pip install -r requirements.txt
-   ```
-3. Open the Jupyter Notebook and run the analysis.  
----
 
-### **✅ Step 5: Create `requirements.txt`**  
-This file lists all the libraries required to run your project.  
-
-Here’s your `requirements.txt`:  
+## Here’s your `requirements.txt`:  
 
 ```
 pandas  
